@@ -1,4 +1,4 @@
 export const siteConfig = {
-  name: "WS1",
+  name: "WS22",
   description: "Next.js + Supabase + AssoConnect API.",
 };
